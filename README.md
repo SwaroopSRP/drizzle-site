@@ -4,7 +4,7 @@ DRIZZLE is a mock, India luxury sreet-fashion company for which this repo hold t
 
 
 # Considerations
-- This is a desktop-optimized site, and therefore meant **to be viewed in PC only**. This hasn't been made responsive.
+- This is a desktop-optimized site, and therefore meant <b>to be viewed in PC only</b>. This hasn't been made responsive.
 - Inspired by: Dior Website
 - Made while learning Web Dev, a lot of features thus, will be implemented later.
 - Images have been randomly picked from the Internet. I apologise for this, and this is for education purposes only.
