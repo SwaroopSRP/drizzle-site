@@ -461,6 +461,11 @@ footer a {
     grid-row: 1;
     display: grid;
     place-items: center;
+    transition: transform 0.2s ease-out;
+}
+
+#go-top:hover {
+    transform: scale(1.15);
 }
 
 #contact {
@@ -533,6 +538,22 @@ footer a {
     background-size: 0 1px;
     background-repeat: no-repeat;
     transition: background-size 0.3s ease-out, background-position 0.3s ease-out;
+}
+
+#legalities a::after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    transform: scaleX(0);
+    background-color: #ffffff;
+    transition: transform 0.2s ease;
+}
+
+#legalities a:hover::after {
+    transform: scaleX(1);
 }
 
 #copyright {
