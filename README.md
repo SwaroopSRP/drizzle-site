@@ -9,3 +9,4 @@ DRIZZLE is a mock, India luxury sreet-fashion company for which this repo hold t
 - Made while learning Web Dev, a lot of features thus, will be implemented later.
 - Images have been randomly picked from the Internet. I apologise for this, and this is for education purposes only.
 - The Coming soon page is a temporary page generated and deployed at v0.dev
+- Written with Vanilla CSS and No JS
